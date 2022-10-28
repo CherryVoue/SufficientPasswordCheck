@@ -4,7 +4,7 @@
 # Assignment Number: Lab9
 # Due Date: 11/6/2022
 # Purpose: 
-# Resources: https://stackoverflow.com/questions/19859282/check-if-a-string-contains-a-number, https://www.geeksforgeeks.org/python-test-if-string-contains-element-from-list/, 
+# Resources: https://stackoverflow.com/questions/19859282/check-if-a-string-contains-a-number, https://www.geeksforgeeks.org/python-test-if-string-contains-element-from-list/, https://stackoverflow.com/questions/9202224/getting-a-hidden-password-input
 
 from getpass import getpass
 
